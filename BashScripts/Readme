@@ -1,5 +1,9 @@
+Bash Scripts:
 
 ut-change-branche.sh is just changing branches
 ut-change-branche-v2.sh is just changing branch and if it dont find this branch_name it creates a branch;
 
 Both of them can exculede some directory
+Run : 
+  chmod +x ut-change-branch.sh
+ ./ut-change-branch.sh BRANCH-NAME
